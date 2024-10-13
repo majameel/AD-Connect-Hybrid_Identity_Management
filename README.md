@@ -2,8 +2,11 @@
 
 **Syncing On-Prem Active Directory with Microsoft Entra ID**
 
-**For a detailed overview, check out my blog post:**  
+## For a detailed overview, check out my blog post:
 [Azure AD Connect Hybrid Identity Management Blog](https://medium.com/@majameeljameey/azure-ad-connect-hybrid-identity-management-e3996e562ec9)
+
+## Youtube Video 
+https://youtu.be/2hWyBUtPB_8
 
 This guide provides a comprehensive overview of setting up a hybrid identity management system using Azure AD Connect. It facilitates the synchronization of on-premises Active Directory (AD) with Microsoft Entra ID, ensuring a seamless transition to a cloud environment.
 
